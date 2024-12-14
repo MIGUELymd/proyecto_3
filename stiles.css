@@ -1,0 +1,17 @@
+h1 {
+    margin-bottom: 20px; /* Espacio debajo del título */
+    color: #ff6f61; /* Color vibrante para el título */
+    font-size: 28px; /* Tamaño de fuente del título */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); /* Sombra de texto */
+}
+
+p {
+    margin: 10px 0; /* Espaciado vertical entre párrafos */
+    font-size: 18px; /* Tamaño de fuente */
+    line-height: 1.5; /* Espaciado entre líneas */
+    transition: color 0.3s; /* Transición suave para el color */
+}
+
+p:hover {
+    color: #ff6f61; /* Cambiar color al pasar el ratón */
+}
